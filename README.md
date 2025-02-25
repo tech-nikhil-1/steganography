@@ -13,13 +13,20 @@ Future Scope
   AI-Based Steganalysis Protection
   Mobile App Implementation
 
+
+
+
+
 **Steganography Process**
+
 sample image for steganography:
         ![my_sample_image](https://github.com/user-attachments/assets/7b0b7409-2248-45f1-b835-eb4903c06b4a)
+
 
 Encryption process at sender side :
        ![Screenshot 2025-02-25 130831](https://github.com/user-attachments/assets/20839813-f8c2-44a0-9aa2-30fe96347940)
        ![Screenshot 2025-02-25 130842](https://github.com/user-attachments/assets/8cf2a013-c078-47e3-ae20-5bcbd06e9004)
+
 
 **sent the encrypted image to reciever !**
     Encrypted image : ![encryptedImage](https://github.com/user-attachments/assets/e3899191-1045-4820-a966-126f992f909f)
