@@ -36,9 +36,6 @@ Future Scope
   Mobile App Implementation
 
 
-
-
-
 **Steganography Process**
 
 sample image for steganography:
