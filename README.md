@@ -62,6 +62,13 @@ Decryption process at reciever side :
 
   ![Screenshot 2025-02-25 130937](https://github.com/user-attachments/assets/7e76a21d-3c94-4982-b163-ec3f09ed9002)
 
+**Conclusion**
+
+This project demonstrates how steganography can be used to securely hide messages inside images.  
+Future improvements could include better encryption techniques and support for different file formats.
+
+Thank you for checking out this project!
+Feel free to contribute, report issues, or suggest improvements.  
 
 
 For queries or suggestions, reach out at:
