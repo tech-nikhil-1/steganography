@@ -1,6 +1,6 @@
 # steganography
 
-A Tkinter-based image steganography tool for hiding and retrieving messages inside images.
+This project implements *image steganography* using Python and Tkinter, allowing users to hide secret messages inside images and later retrieve them using a password. 
 It ensures secure communication by embedding messages into image pixels and retrieving them using a password.
 
 **Technologies Used**
@@ -19,8 +19,12 @@ It ensures secure communication by embedding messages into image pixels and retr
   
         pip install opencv-python numpy pillow tkinter
 
+**Use Cases**
+- Secure communication.
+- Hiding sensitive information inside images.
+- Protecting data from unauthorized access.
 
-**How It Works?**
+**How It Works**
 
   Encryption:
   - The message (along with the password) is converted into ASCII values.
@@ -31,12 +35,6 @@ It ensures secure communication by embedding messages into image pixels and retr
   - The program reads ASCII values from pixels.
   - Extracts and verifies the password.
   - If correct, the hidden message is displayed.
-
-
-**Use Cases**
-- Secure communication.
-- Hiding sensitive information inside images.
-- Protecting data from unauthorized access.
 
   
 **Steganography Process**
@@ -53,7 +51,7 @@ Encryption process at sender side :
 
 
 
-**sent the encrypted image to reciever !**
+**send the encrypted image to Reciever !**
 
   Encrypted image : 
   
